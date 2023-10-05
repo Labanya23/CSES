@@ -16,3 +16,8 @@ int main(){
     cout<<ans;
     return 0;
 }
+;;;;here need previous element large ;so that why in here 
+                //loop goes 5 time and check element compare to mx
+                //first int here(3,0)3 is max so why it ma now..then again
+                //compare 2 time in here need to increase the last value
+                //it s happen 2 time max=1(mx)=mx-x==7-2=5;
